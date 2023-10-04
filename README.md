@@ -80,7 +80,7 @@ Acá vemos que contiene un volumen lógico llamado almalinux.
 
 La teoría para entender lo realizado en este instructivo se encuentra en el siguiente enlace:
 
-[https://bookstack.genexusconsulting.com/public/books/trabajos-varios/page/teoria-file-system](https://bookstack.genexusconsulting.com/public/books/trabajos-varios/page/teoria-file-system "https://bookstack.genexusconsulting.com/public/books/trabajos-varios/page/teoria-file-system")
+[teoria-file-system.dpf](./teoria-file-system.pdf)
 
 ### Pasos para incrementar el espacio
 
@@ -90,7 +90,7 @@ Primero debemos agregarle más espacio en el vcenter.
 
 Con el comando cfdisk podemos chequear que tenemos espacio libre en los discos. En caso de que no suceda, debemos reiniciar el server.
 
-[![image.png](https://bookstack.genexusconsulting.com/public/uploads/images/gallery/2022-12/scaled-1680-/2fUimage.png)](https://bookstack.genexusconsulting.com/public/uploads/images/gallery/2022-12/2fUimage.png)
+[![image.png](./img/2fUimage.png)
 
 #### Cambiar la tabla de particiones
 
